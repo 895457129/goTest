@@ -1,0 +1,903 @@
+POST http://localhost:8080/api/user
+Content-Type: application/json
+
+{
+  "province": "四川",
+  "area": "成都",
+  "shop": "门店",
+  "phone_type": "x20",
+  "name": "ran",
+  "sex": "男",
+  "phone": "12132323232",
+  "birthday": "生日",
+  "nation": "nation"
+}
+
+<> 2020-06-19T032743-1.200.txt
+
+###
+
+POST http://localhost:8080/api/user
+Content-Type: application/json
+
+{
+  "province": "四川",
+  "area": "成都",
+  "shop": "门店",
+  "phone_type": "x20",
+  "name": "ran",
+  "sex": "男",
+  "phone": "12132323232",
+  "birthday": "生日",
+  "nation": "nation"
+}
+
+<> 2020-06-19T032743.200.txt
+
+###
+
+POST http://localhost:8080/api/user
+Content-Type: application/json
+
+{
+  "province": "四川",
+  "area": "成都",
+  "shop": "门店",
+  "phone_type": "x20",
+  "name": "ran",
+  "sex": "男",
+  "phone": "12132323232",
+  "birthday": "生日",
+  "nation": "nation"
+}
+
+<> 2020-06-19T032742.200.txt
+
+###
+
+POST http://localhost:8080/api/user
+Content-Type: application/json
+
+{
+  "province": "四川",
+  "area": "成都",
+  "shop": "门店",
+  "phone_type": "x20",
+  "name": "ran",
+  "sex": "男",
+  "phone": "12132323232",
+  "birthday": "生日",
+  "nation": "nation"
+}
+
+<> 2020-06-19T032741.200.txt
+
+###
+
+POST http://localhost:8080/api/user
+Content-Type: application/json
+
+{
+  "province": "四川",
+  "area": "成都",
+  "shop": "门店",
+  "phone_type": "x20",
+  "name": "ran",
+  "sex": "男",
+  "phone": "12132323232",
+  "birthday": "生日",
+  "nation": "nation"
+}
+
+<> 2020-06-19T032739.200.txt
+
+###
+
+POST http://localhost:8080/api/user
+Content-Type: application/json
+
+{
+  "province": "四川",
+  "area": "成都",
+  "shop": "门店",
+  "phone_type": "x20",
+  "name": "ran",
+  "sex": "男",
+  "phone": "12132323232",
+  "birthday": "生日",
+  "nation": "nation"
+}
+
+<> 2020-06-19T032009.200.txt
+
+###
+
+POST http://localhost:8080/api/user
+Content-Type: application/json
+
+{
+  "province": "四川",
+  "area": "成都",
+  "shop": "门店",
+  "phone_type": "x20",
+  "name": "ran",
+  "sex": "男",
+  "phone": "12132323232",
+  "birthday": "生日",
+  "nation": "nation"
+}
+
+<> 2020-06-19T032008-5.200.txt
+
+###
+
+POST http://localhost:8080/api/user
+Content-Type: application/json
+
+{
+  "province": "四川",
+  "area": "成都",
+  "shop": "门店",
+  "phone_type": "x20",
+  "name": "ran",
+  "sex": "男",
+  "phone": "12132323232",
+  "birthday": "生日",
+  "nation": "nation"
+}
+
+<> 2020-06-19T032008-4.200.txt
+
+###
+
+POST http://localhost:8080/api/user
+Content-Type: application/json
+
+{
+  "province": "四川",
+  "area": "成都",
+  "shop": "门店",
+  "phone_type": "x20",
+  "name": "ran",
+  "sex": "男",
+  "phone": "12132323232",
+  "birthday": "生日",
+  "nation": "nation"
+}
+
+<> 2020-06-19T032008-3.200.txt
+
+###
+
+POST http://localhost:8080/api/user
+Content-Type: application/json
+
+{
+  "province": "四川",
+  "area": "成都",
+  "shop": "门店",
+  "phone_type": "x20",
+  "name": "ran",
+  "sex": "男",
+  "phone": "12132323232",
+  "birthday": "生日",
+  "nation": "nation"
+}
+
+<> 2020-06-19T032008-2.200.txt
+
+###
+
+POST http://localhost:8080/api/user
+Content-Type: application/json
+
+{
+  "province": "四川",
+  "area": "成都",
+  "shop": "门店",
+  "phone_type": "x20",
+  "name": "ran",
+  "sex": "男",
+  "phone": "12132323232",
+  "birthday": "生日",
+  "nation": "nation"
+}
+
+<> 2020-06-19T032008-1.200.txt
+
+###
+
+POST http://localhost:8080/api/user
+Content-Type: application/json
+
+{
+  "province": "四川",
+  "area": "成都",
+  "shop": "门店",
+  "phone_type": "x20",
+  "name": "ran",
+  "sex": "男",
+  "phone": "12132323232",
+  "birthday": "生日",
+  "nation": "nation"
+}
+
+<> 2020-06-19T032008.200.txt
+
+###
+
+POST http://localhost:8080/api/user
+Content-Type: application/json
+
+{
+  "province": "四川",
+  "area": "成都",
+  "shop": "门店",
+  "phone_type": "x20",
+  "name": "ran",
+  "sex": "男",
+  "phone": "12132323232",
+  "birthday": "生日",
+  "nation": "nation"
+}
+
+<> 2020-06-19T032007-5.200.txt
+
+###
+
+POST http://localhost:8080/api/user
+Content-Type: application/json
+
+{
+  "province": "四川",
+  "area": "成都",
+  "shop": "门店",
+  "phone_type": "x20",
+  "name": "ran",
+  "sex": "男",
+  "phone": "12132323232",
+  "birthday": "生日",
+  "nation": "nation"
+}
+
+<> 2020-06-19T032007-4.200.txt
+
+###
+
+POST http://localhost:8080/api/user
+Content-Type: application/json
+
+{
+  "province": "四川",
+  "area": "成都",
+  "shop": "门店",
+  "phone_type": "x20",
+  "name": "ran",
+  "sex": "男",
+  "phone": "12132323232",
+  "birthday": "生日",
+  "nation": "nation"
+}
+
+<> 2020-06-19T032007-3.200.txt
+
+###
+
+POST http://localhost:8080/api/user
+Content-Type: application/json
+
+{
+  "province": "四川",
+  "area": "成都",
+  "shop": "门店",
+  "phone_type": "x20",
+  "name": "ran",
+  "sex": "男",
+  "phone": "12132323232",
+  "birthday": "生日",
+  "nation": "nation"
+}
+
+<> 2020-06-19T032007-2.200.txt
+
+###
+
+POST http://localhost:8080/api/user
+Content-Type: application/json
+
+{
+  "province": "四川",
+  "area": "成都",
+  "shop": "门店",
+  "phone_type": "x20",
+  "name": "ran",
+  "sex": "男",
+  "phone": "12132323232",
+  "birthday": "生日",
+  "nation": "nation"
+}
+
+<> 2020-06-19T032007-1.200.txt
+
+###
+
+POST http://localhost:8080/api/user
+Content-Type: application/json
+
+{
+  "province": "四川",
+  "area": "成都",
+  "shop": "门店",
+  "phone_type": "x20",
+  "name": "ran",
+  "sex": "男",
+  "phone": "12132323232",
+  "birthday": "生日",
+  "nation": "nation"
+}
+
+<> 2020-06-19T032007.200.txt
+
+###
+
+POST http://localhost:8080/api/user
+Content-Type: application/json
+
+{
+  "province": "四川",
+  "area": "成都",
+  "shop": "门店",
+  "phone_type": "x20",
+  "name": "ran",
+  "sex": "男",
+  "phone": "12132323232",
+  "birthday": "生日",
+  "nation": "nation"
+}
+
+<> 2020-06-19T032006-2.200.txt
+
+###
+
+POST http://localhost:8080/api/user
+Content-Type: application/json
+
+{
+  "province": "四川",
+  "area": "成都",
+  "shop": "门店",
+  "phone_type": "x20",
+  "name": "ran",
+  "sex": "男",
+  "phone": "12132323232",
+  "birthday": "生日",
+  "nation": "nation"
+}
+
+<> 2020-06-19T032006-1.200.txt
+
+###
+
+POST http://localhost:8080/api/user
+Content-Type: application/json
+
+{
+  "province": "四川",
+  "area": "成都",
+  "shop": "门店",
+  "phone_type": "x20",
+  "name": "ran",
+  "sex": "男",
+  "phone": "12132323232",
+  "birthday": "生日",
+  "nation": "nation"
+}
+
+<> 2020-06-19T032006.200.txt
+
+###
+
+POST http://localhost:8080/api/user
+Content-Type: application/json
+
+{
+  "province": "四川",
+  "area": "成都",
+  "shop": "门店",
+  "phone_type": "x20",
+  "name": "ran",
+  "sex": "男",
+  "phone": "12132323232",
+  "birthday": "生日",
+  "nation": "nation"
+}
+
+<> 2020-06-19T032005-1.200.txt
+
+###
+
+POST http://localhost:8080/api/user
+Content-Type: application/json
+
+{
+  "province": "四川",
+  "area": "成都",
+  "shop": "门店",
+  "phone_type": "x20",
+  "name": "ran",
+  "sex": "男",
+  "phone": "12132323232",
+  "birthday": "生日",
+  "nation": "nation"
+}
+
+<> 2020-06-19T032005.200.txt
+
+###
+
+POST http://localhost:8080/api/user
+Content-Type: application/json
+
+{
+  "province": "四川",
+  "area": "成都",
+  "shop": "门店",
+  "phone_type": "x20",
+  "name": "ran",
+  "sex": "男",
+  "phone": "12132323232",
+  "birthday": "生日",
+  "nation": "nation"
+}
+
+<> 2020-06-19T031803.200.txt
+
+###
+
+POST http://localhost:8080/api/user
+Content-Type: application/json
+
+{
+  "province": "四川",
+  "area": "成都",
+  "shop": "门店",
+  "phone_type": "x20",
+  "name": "ran",
+  "sex": "男",
+  "phone": "12132323232",
+  "birthday": "生日",
+  "nation": "nation"
+}
+
+<> 2020-06-19T031802-1.200.txt
+
+###
+
+POST http://localhost:8080/api/user
+Content-Type: application/json
+
+{
+  "province": "四川",
+  "area": "成都",
+  "shop": "门店",
+  "phone_type": "x20",
+  "name": "ran",
+  "sex": "男",
+  "phone": "12132323232",
+  "birthday": "生日",
+  "nation": "nation"
+}
+
+<> 2020-06-19T031802.200.txt
+
+###
+
+POST http://localhost:8080/api/user
+Content-Type: application/json
+
+{
+  "province": "四川",
+  "area": "成都",
+  "shop": "门店",
+  "phone_type": "x20",
+  "name": "ran",
+  "sex": "男",
+  "phone": "12132323232",
+  "birthday": "生日",
+  "nation": "nation"
+}
+
+<> 2020-06-19T031801-1.200.txt
+
+###
+
+POST http://localhost:8080/api/user
+Content-Type: application/json
+
+{
+  "province": "四川",
+  "area": "成都",
+  "shop": "门店",
+  "phone_type": "x20",
+  "name": "ran",
+  "sex": "男",
+  "phone": "12132323232",
+  "birthday": "生日",
+  "nation": "nation"
+}
+
+<> 2020-06-19T031801.200.txt
+
+###
+
+POST http://localhost:8080/api/user
+Content-Type: application/json
+
+{
+  "province": "四川",
+  "area": "成都",
+  "shop": "门店",
+  "phone_type": "x20",
+  "name": "ran",
+  "sex": "男",
+  "phone": "12132323232",
+  "birthday": "生日",
+  "nation": "nation"
+}
+
+<> 2020-06-19T031800-1.200.txt
+
+###
+
+POST http://localhost:8080/api/user
+Content-Type: application/json
+
+{
+  "province": "四川",
+  "area": "成都",
+  "shop": "门店",
+  "phone_type": "x20",
+  "name": "ran",
+  "sex": "男",
+  "phone": "12132323232",
+  "birthday": "生日",
+  "nation": "nation"
+}
+
+<> 2020-06-19T031800.200.txt
+
+###
+
+POST http://localhost:8080/api/user
+Content-Type: application/json
+
+{
+  "province": "四川",
+  "area": "成都",
+  "shop": "门店",
+  "phone_type": "x20",
+  "name": "ran",
+  "sex": "男",
+  "phone": "12132323232",
+  "birthday": "生日",
+  "nation": "nation"
+}
+
+<> 2020-06-19T031759.200.txt
+
+###
+
+POST http://localhost:8080/api/user
+Content-Type: application/json
+
+{
+  "province": "四川",
+  "area": "成都",
+  "shop": "门店",
+  "phone_type": "x20",
+  "name": "ran",
+  "sex": "男",
+  "phone": "12132323232",
+  "birthday": "生日",
+  "nation": "nation"
+}
+
+<> 2020-06-19T031756.200.txt
+
+###
+
+POST http://localhost:8080/api/user
+Content-Type: application/json
+
+{
+  "province": "四川",
+  "area": "成都",
+  "shop": "门店",
+  "phone_type": "x20",
+  "name": "ran",
+  "sex": "男",
+  "phone": "12132323232",
+  "birthday": "生日",
+  "nation": "nation"
+}
+
+###
+
+POST http://localhost:8080/api/user
+Content-Type: application/json
+
+{
+  "province": "四川",
+  "area": "成都",
+  "shop": "门店",
+  "phone_type": "x20",
+  "name": "ran",
+  "sex": "男",
+  "phone": "12132323232",
+  "birthday": "生日",
+  "nation": "nation"
+}
+
+###
+
+POST http://localhost:8080/api/user
+Content-Type: application/json
+
+{
+  "province": "四川",
+  "area": "成都",
+  "shop": "门店",
+  "phone_type": "x20",
+  "name": "ran",
+  "sex": "男",
+  "phone": "12132323232",
+  "birthday": "生日",
+  "nation": "nation"
+}
+
+###
+
+POST http://localhost:8080/api/user
+Content-Type: application/json
+
+{
+  "province": "四川",
+  "area": "成都",
+  "shop": "门店",
+  "phone_type": "x20",
+  "name": "ran",
+  "sex": "男",
+  "phone": "12132323232",
+  "birthday": "生日",
+  "nation": "nation"
+}
+
+<> 2020-06-19T030558.200.txt
+
+###
+
+POST http://localhost:8080/api/user
+Content-Type: application/json
+
+{
+  "province": "四川",
+  "area": "成都",
+  "shop": "门店",
+  "phone_type": "x20",
+  "name": "ran",
+  "sex": "男",
+  "phone": "12132323232",
+  "birthday": "生日",
+  "nation": "nation"
+}
+
+###
+
+POST http://localhost:8080/api/user
+Content-Type: application/json
+
+{
+  "province": "四川",
+  "area": "成都",
+  "shop": "门店",
+  "phone_type": "x20",
+  "name": "ran",
+  "sex": "男",
+  "phone": "12132323232",
+  "birthday": "生日",
+  "nation": "nation"
+}
+
+###
+
+POST http://localhost:8080/api/user
+Content-Type: application/json
+
+{
+  "province": "四川",
+  "area": "成都",
+  "shop": "门店",
+  "phone_type": "x20",
+  "name": "ran",
+  "sex": "男",
+  "phone": "12132323232",
+  "birthday": "生日",
+  "nation": "nation"
+}
+
+###
+
+POST http://localhost:8080/api/user
+Content-Type: application/json
+
+{
+  "province": "四川",
+  "area": "成都",
+  "shop": "门店",
+  "phone_type": "x20",
+  "name": "ran",
+  "sex": "男",
+  "phone": "12132323232",
+  "birthday": "生日",
+  "nation": "nation"
+}
+
+<> 2020-06-19T024834.200.txt
+
+###
+
+POST http://localhost:8080/api/user
+Content-Type: application/json
+
+{
+  "province": "四川",
+  "area": "成都",
+  "shop": "门店",
+  "phone_type": "x20",
+  "name": "ran",
+  "sex": "男",
+  "phone": "12132323232",
+  "birthday": "生日",
+  "nation": "nation"
+}
+
+###
+
+POST http://localhost:8080/api/user
+Content-Type: application/json
+
+{
+  "province": "四川",
+  "area": "成都",
+  "shop": "门店",
+  "phone_type": "x20",
+  "name": "ran",
+  "sex": "男",
+  "phone": "12132323232",
+  "birthday": "生日",
+  "nation": "nation"
+}
+
+###
+
+POST http://localhost:8080/api/user
+Content-Type: application/json
+
+{
+  "province": "四川",
+  "area": "成都",
+  "shop": "门店",
+  "phone_type": "x20",
+  "name": "ran",
+  "sex": "男",
+  "phone": "12132323232",
+  "birthday": "生日",
+  "nation": "nation"
+}
+
+###
+
+POST http://localhost:8080/api/user
+Content-Type: application/json
+
+{
+  "province": "四川",
+  "area": "成都",
+  "shop": "门店",
+  "phone_type": "x20",
+  "name": "ran",
+  "sex": "男",
+  "phone": "12132323232",
+  "birthday": "生日",
+  "nation": "nation"
+}
+
+###
+
+POST http://localhost:8080/api/user
+Content-Type: application/json
+
+{
+  "province": "四川",
+  "area": "成都",
+  "shop": "门店",
+  "PhoneType": "x20",
+  "name": "ran",
+  "sex": "男",
+  "phone": "12132323232",
+  "birthday": "生日",
+  "nation": "nation"
+}
+
+###
+
+POST http://localhost:8080/api/user
+Content-Type: application/json
+
+{
+  "province": "四川",
+  "area": "成都",
+  "shop": "门店",
+  "PhoneType": "x20",
+  "name": "ran",
+  "sex": "男",
+  "phone": "12132323232",
+  "birthday": "生日",
+  "nation": "nation"
+}
+
+###
+
+POST http://localhost:8080/api/user
+Content-Type: application/json
+
+{
+  "province": "四川",
+  "area": "成都",
+  "shop": "门店",
+  "PhoneType": "x20",
+  "name": "ran",
+  "sex": "男",
+  "phone": "12132323232",
+  "birthday": "生日",
+  "nation": "nation"
+}
+
+###
+
+POST http://localhost:8080/api/user
+Content-Type: application/json
+
+{
+  "province": "四川",
+  "area": "成都",
+  "shop": "门店",
+  "PhoneType": "x20",
+  "name": "ran",
+  "sex": "男",
+  "phone": "12132323232",
+  "birthday": "生日",
+  "nation": "nation"
+}
+
+###
+
+POST http://localhost:8080/api/order
+Content-Type: application/json
+
+{
+  "province": "四川",
+  "area": "成都",
+  "shop": "门店",
+  "PhoneType": "x20",
+  "name": "ran",
+  "sex": "男",
+  "phone": "12132323232",
+  "birthday": "生日",
+  "nation": "nation"
+}
+
+<> 2020-06-19T114036.404.txt
+
+###
+

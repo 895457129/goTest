@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a8134a70-5bfa-43ae-b1bf-d16306c07bbd" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="test@localhost" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="test@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="test@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="test: schema" type="76f4a085:MysqlImplModel$Schema" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Go File" />
+      </list>
+    </option>
+  </component>
+  <component name="GOROOT" path="$USER_HOME$/go/go1.14.3" />
+  <component name="ProjectId" id="1dNlXa6I9LwJ3CXuKmwoPx9hSXj" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="DefaultGoTemplateProperty" value="Go File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="configurable.Global.GOPATH.is.expanded" value="true" />
+    <property name="configurable.Module.GOPATH.is.expanded" value="false" />
+    <property name="configurable.Project.GOPATH.is.expanded" value="true" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="go.sdk.automatically.set" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$" />
+    <property name="settings.editor.selected.configurable" value="go.vgo" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/controllers" />
+    </key>
+  </component>
+  <component name="RestClientSettings">
+    <option name="REQUEST_HISTORY">
+      <list>
+        <RestClientRequest>
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="http://localhost:8080/api/user" />
+          <option name="urlPath" value="" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Content-Type" />
+                <option name="value" value="application/json" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="haveTextToSend" value="true" />
+          <option name="textToSend" value="{&#10;  &quot;province&quot;: &quot;四川&quot;,&#10;  &quot;area&quot;: &quot;成都&quot;,&#10;  &quot;shop&quot;: &quot;门店&quot;,&#10;  &quot;phone_type&quot;: &quot;x20&quot;,&#10;  &quot;name&quot;: &quot;ran&quot;,&#10;  &quot;sex&quot;: &quot;男&quot;,&#10;  &quot;phone&quot;: &quot;12132323232&quot;,&#10;  &quot;birthday&quot;: &quot;生日&quot;,&#10;  &quot;nation&quot;: &quot;nation&quot;&#10;}" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="http://localhost:8080/api/order" />
+          <option name="urlPath" value="" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Content-Type" />
+                <option name="value" value="application/json" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="haveTextToSend" value="true" />
+          <option name="textToSend" value="{&#10;  &quot;province&quot;: &quot;四川&quot;,&#10;  &quot;area&quot;: &quot;成都&quot;,&#10;  &quot;shop&quot;: &quot;门店&quot;,&#10;  &quot;PhoneType&quot;: &quot;x20&quot;,&#10;  &quot;name&quot;: &quot;ran&quot;,&#10;  &quot;sex&quot;: &quot;男&quot;,&#10;  &quot;phone&quot;: &quot;12132323232&quot;,&#10;  &quot;birthday&quot;: &quot;生日&quot;,&#10;  &quot;nation&quot;: &quot;nation&quot;&#10;}" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Go Build.go build ranyun/goTest">
+    <configuration name="go build ranyun/goTest" type="GoApplicationRunConfiguration" factoryName="Go Application" nameIsGenerated="true">
+      <module name="goTest" />
+      <working_directory value="$PROJECT_DIR$/" />
+      <go_parameters value="-i" />
+      <envs>
+        <env name="CGO_ENABLED" value="0" />
+        <env name="GOOS" value="darwin" />
+        <env name="GOARCH" value="amd64" />
+      </envs>
+      <kind value="PACKAGE" />
+      <filePath value="$PROJECT_DIR$/" />
+      <package value="ranyun/goTest" />
+      <directory value="$PROJECT_DIR$/" />
+      <output_directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="rest-api_1#2" type="HttpClient.HttpRequestRunConfigurationType" factoryName="HTTP Request" temporary="true" path="$APPLICATION_CONFIG_DIR$/scratches/rest-api_1.http" index="2" runType="Run single request">
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Go Build.go build ranyun/goTest" />
+      <item itemvalue="HTTP Request.rest-api_1#2" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="HTTP Request.rest-api_1#2" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="root:test@localhost" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="root:test@localhost" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+                <item name="com.intellij.database.console.session.MessageBusSession@314f9ba6" type="9fbbdea:ServiceModel$ServiceNode" />
+              </path>
+            </expand>
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a8134a70-5bfa-43ae-b1bf-d16306c07bbd" name="Default Changelist" comment="" />
+      <created>1592273471905</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1592273471905</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VgoProject">
+    <integration-enabled>true</integration-enabled>
+    <proxy>https://goproxy.cn,direct</proxy>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="645" y="205" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1592554732680">
+      <screen x="0" y="23" width="2048" height="1077" />
+    </state>
+    <state x="645" y="205" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.2048.1077@0.23.2048.1077" timestamp="1592554732680" />
+    <state x="827" y="369" key="EnvironmentVariablesDialog" timestamp="1592554731619">
+      <screen x="0" y="23" width="2048" height="1077" />
+    </state>
+    <state x="827" y="369" key="EnvironmentVariablesDialog/0.23.2048.1077@0.23.2048.1077" timestamp="1592554731619" />
+    <state width="1721" height="342" key="GridCell.Tab.0.bottom" timestamp="1592554811901">
+      <screen x="0" y="23" width="2048" height="1077" />
+    </state>
+    <state width="1721" height="342" key="GridCell.Tab.0.bottom/0.23.2048.1077@0.23.2048.1077" timestamp="1592554811901" />
+    <state width="1721" height="342" key="GridCell.Tab.0.center" timestamp="1592554811900">
+      <screen x="0" y="23" width="2048" height="1077" />
+    </state>
+    <state width="1721" height="342" key="GridCell.Tab.0.center/0.23.2048.1077@0.23.2048.1077" timestamp="1592554811900" />
+    <state width="1721" height="342" key="GridCell.Tab.0.left" timestamp="1592554811900">
+      <screen x="0" y="23" width="2048" height="1077" />
+    </state>
+    <state width="1721" height="342" key="GridCell.Tab.0.left/0.23.2048.1077@0.23.2048.1077" timestamp="1592554811900" />
+    <state width="1721" height="342" key="GridCell.Tab.0.right" timestamp="1592554811901">
+      <screen x="0" y="23" width="2048" height="1077" />
+    </state>
+    <state width="1721" height="342" key="GridCell.Tab.0.right/0.23.2048.1077@0.23.2048.1077" timestamp="1592554811901" />
+    <state x="685" y="217" key="SettingsEditor" timestamp="1592273513287">
+      <screen x="0" y="23" width="2048" height="1077" />
+    </state>
+    <state x="685" y="217" key="SettingsEditor/0.23.2048.1077@0.23.2048.1077" timestamp="1592273513287" />
+    <state x="869" y="435" width="350" height="232" key="com.intellij.database.actions.DdlActions$DeleteProvider2$1" timestamp="1592292357092">
+      <screen x="0" y="23" width="2048" height="1077" />
+    </state>
+    <state x="869" y="435" width="350" height="232" key="com.intellij.database.actions.DdlActions$DeleteProvider2$1/0.23.2048.1077@0.23.2048.1077" timestamp="1592292357092" />
+    <state x="804" y="321" key="search.everywhere.popup" timestamp="1592276625942">
+      <screen x="0" y="23" width="2048" height="1077" />
+    </state>
+    <state x="804" y="321" key="search.everywhere.popup/0.23.2048.1077@0.23.2048.1077" timestamp="1592276625942" />
+  </component>
+</project>
